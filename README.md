@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=180&section=header&text=Hey%20There%20%F0%9F%91%8B%2C%20I'm%20Jibin%20Varghese&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="assets/profile.jpg" width="180" style="border-radius:50%;" alt="Jibin Varghese" />
-</p>
-
 <h2 align="center">Software Engineer | Cybersecurity Analyst | AI/ML Enthusiast</h2>
 
 <p align="center">
@@ -114,4 +110,4 @@ A MERN-stack social media platform with posts, user interactions, authentication
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-```
+
