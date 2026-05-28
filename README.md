@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Jibin%20Varghese-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:jibinye@oregonstate.edu">
-    <img src="https://img.shields.io/badge/Email-jibinye%40oregonstate.edu-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-jibinjithinyesudas%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Bears-beets-battlestargalactica">
     <img src="https://img.shields.io/badge/GitHub-Bears--beets--battlestargalactica-black?style=for-the-badge&logo=github" />
@@ -41,7 +41,7 @@ A research project focused on deriving a machine-learning-ready intrusion detect
 - Studied how temporal window sizes affect detection performance under realistic SOC class imbalance
 - Found that PIDS models evaluated on benchmark datasets such as **DARPA Transparent Computing** do not directly transfer to noisy operational SOC telemetry
 
-📄 **Paper:** [Deriving a Research Dataset from Operational SOC Telemetry](YOUR_PAPER_LINK_HERE)
+📄 **Paper:** [Deriving a Research Dataset from Operational SOC Telemetry](https://drive.google.com/file/d/1qZX6T1KBS7JwzPhaQtCYFQgDf-DTtSDm/view?usp=drive_link)
 
 **Focus Areas:** Provenance Graphs, SOC Telemetry, Elastic EDR, ECS-to-CDM Mapping, Intrusion Detection, DARPA Transparent Computing
 
