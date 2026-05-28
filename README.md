@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=180&section=header&text=Hey%20There%20%F0%9F%91%8B%2C%20I'm%20Jibin%20Varghese&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="assets/profile.jpg" width="180" style="border-radius:50%;" alt="Jibin Varghese" />
+</p>
+
 <h2 align="center">Software Engineer | Cybersecurity Analyst | AI/ML Enthusiast</h2>
 
 <p align="center">
@@ -9,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Jibin%20Varghese-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:jibinye@oregonstate.edu">
-    <img src="https://img.shields.io/badge/Email-jibinjithinyesudas%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-jibinye%40oregonstate.edu-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Bears-beets-battlestargalactica">
     <img src="https://img.shields.io/badge/GitHub-Bears--beets--battlestargalactica-black?style=for-the-badge&logo=github" />
@@ -41,7 +45,7 @@ A research project focused on deriving a machine-learning-ready intrusion detect
 - Studied how temporal window sizes affect detection performance under realistic SOC class imbalance
 - Found that PIDS models evaluated on benchmark datasets such as **DARPA Transparent Computing** do not directly transfer to noisy operational SOC telemetry
 
-📄 **Paper:** [Deriving a Research Dataset from Operational SOC Telemetry](https://drive.google.com/file/d/1qZX6T1KBS7JwzPhaQtCYFQgDf-DTtSDm/view?usp=drive_link)
+📄 **Paper:** [Deriving a Research Dataset from Operational SOC Telemetry](YOUR_PIDS_PAPER_LINK_HERE)
 
 **Focus Areas:** Provenance Graphs, SOC Telemetry, Elastic EDR, ECS-to-CDM Mapping, Intrusion Detection, DARPA Transparent Computing
 
@@ -51,7 +55,8 @@ A research project focused on deriving a machine-learning-ready intrusion detect
 
 An AI-powered code review assistant that analyzes code and provides intelligent review suggestions.
 
-🔗 **Live Demo:** [View Project](https://ai-code-review-assistant-gold.vercel.app)
+🔗 **Live Demo:** [View Project](https://ai-code-review-assistant-gold.vercel.app)  
+💻 **GitHub Repo:** [ai-code-review-assistant](https://github.com/Bears-beets-battlestargalactica/ai-code-review-assistant)
 
 **Tech Stack:** React, Node.js, Express, Vercel, Render, AI APIs
 
@@ -61,6 +66,9 @@ An AI-powered code review assistant that analyzes code and provides intelligent 
 
 A computer vision research project for detecting pith in tree cross-section images using deep learning models.
 
+💻 **GitHub Repo:** [Automatic_Pith_Detection](https://github.com/Bears-beets-battlestargalactica/Automatic_Pith_Detection)  
+📄 **Paper:** [arXiv Abstract](https://arxiv.org/abs/2512.00625) | [PDF](https://arxiv.org/pdf/2512.00625)
+
 **Tech Stack:** Python, PyTorch, OpenCV, YOLO, U-Net, Swin Transformer
 
 ---
@@ -68,6 +76,8 @@ A computer vision research project for detecting pith in tree cross-section imag
 ### 🧠 Depression Detection Using Tweets
 
 A machine learning project that analyzes tweets from a single user to detect signs of depression.
+
+💻 **GitHub Repo:** [Webappfordepressiondetectionontweets-main](https://github.com/Bears-beets-battlestargalactica/Webappfordepressiondetectionontweets-main)
 
 **Tech Stack:** Python, NLP, Machine Learning, Flask/Jupyter Notebook
 
@@ -77,6 +87,8 @@ A machine learning project that analyzes tweets from a single user to detect sig
 
 A MERN-stack social media platform with posts, user interactions, authentication, and timeline features.
 
+💻 **GitHub Repo:** [Twitter_new](https://github.com/Bears-beets-battlestargalactica/Twitter_new)
+
 **Tech Stack:** MongoDB, Express, React, Node.js
 
 ---
@@ -85,19 +97,6 @@ A MERN-stack social media platform with posts, user interactions, authentication
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,express,mongodb,postgres,docker,kubernetes,aws,azure,linux,git,github,html,css,tailwind,pytorch,tensorflow,opencv,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bears-beets-battlestargalactica&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bears-beets-battlestargalactica&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bears-beets-battlestargalactica&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -115,3 +114,4 @@ A MERN-stack social media platform with posts, user interactions, authentication
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+```
