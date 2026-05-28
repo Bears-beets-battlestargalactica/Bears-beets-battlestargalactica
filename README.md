@@ -38,7 +38,7 @@ A research project focused on deriving a machine-learning-ready intrusion detect
 - Studied how temporal window sizes affect detection performance under realistic SOC class imbalance
 - Found that PIDS models evaluated on benchmark datasets such as **DARPA Transparent Computing** do not directly transfer to noisy operational SOC telemetry
 
-📄 **Paper:** [Deriving a Research Dataset from Operational SOC Telemetry](YOUR_PIDS_PAPER_LINK_HERE)
+📄 **Paper:** [Deriving a Research Dataset from Operational SOC Telemetry](https://drive.google.com/file/d/1qZX6T1KBS7JwzPhaQtCYFQgDf-DTtSDm/view?usp=drive_link)
 
 **Focus Areas:** Provenance Graphs, SOC Telemetry, Elastic EDR, ECS-to-CDM Mapping, Intrusion Detection, DARPA Transparent Computing
 
