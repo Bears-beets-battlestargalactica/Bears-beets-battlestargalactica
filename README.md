@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=180&section=header&text=Hey%20There%20%F0%9F%91%8B%2C%20I'm%20Jibin%20Varghese&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:7c3aed,70:2563eb,100:38bdf8&text=Jibin%20Varghese&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Cybersecurity%20Analyst%20|%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20" />
 </p>
-
-<h2 align="center">Software Engineer | Cybersecurity Analyst | AI/ML Enthusiast</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jibin-varghese-a48b402a6/">
@@ -25,7 +23,6 @@
 - 🤖 I’m interested in **AI/ML, security engineering, cloud security, and applied cybersecurity research**
 - 🎓 Recent MS Computer Science graduate from **Oregon State University**
 - 💬 Ask me about **Python, React, Node.js, SIEM, Machine Learning, Cybersecurity, and Research Datasets**
-- 🌐 Check out my projects below!
 
 ---
 
@@ -110,4 +107,3 @@ A MERN-stack social media platform with posts, user interactions, authentication
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
